@@ -6,6 +6,14 @@ My main business is back-end design/development, and sometimes build the infrast
 <a href="https://twitter.com/yossiee_jp">
   <img align="left" alt="yossiee | Twitter" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/twitter.svg" />
 </a>
+<a href="https://facebook.com/egashira.yoshimitsu">
+  <img align="left" alt="yoshimitsu egashira | Facebook" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/facebook.svg" />
+</a>
+
+<br />
+<br />
+
+<hr />
 
 [![Stats Card](https://github-readme-stats.vercel.app/api?username=yossiee&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_title=true&hide=contribs&hide_border=true)](https://github.com/yossiee)
 
