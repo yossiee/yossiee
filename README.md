@@ -25,8 +25,8 @@ My main business is back-end design/development, and sometimes build the infrast
 </a>
 
 <a href="https://github.com/yossiee/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yossiee&repo=blog&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yossiee&repo=blog&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=60" />
 </a>
 <a href="https://github.com/yossiee/97programmer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yossiee&repo=97programmer&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yossiee&repo=97programmer&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=60" />
 </a>
