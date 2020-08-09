@@ -9,8 +9,10 @@ My main business is back-end design/development, and sometimes build the infrast
 <a href="https://facebook.com/egashira.yoshimitsu">
   <img align="left" alt="yoshimitsu egashira | Facebook" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/facebook.svg" />
 </a>
+<a href="https://www.linkedin.com/in/yossiee">
+  <img align="left" alt="yoshimitsu egashira | LinkdIn" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/linkedin.svg" />
+</a>
 
-<br />
 <br />
 
 <hr />
