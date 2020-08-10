@@ -1,6 +1,6 @@
 ### Hi, I'm [yossiee](http://yossiee.com/about) :stuck_out_tongue_winking_eye:
 
-Currently, I am developing a web services as a software engineer based in Fukuoka, Japan.
+Currently, I am developing web services as a software engineer based in Fukuoka, Japan.
 My main business is back-end design/development, and sometimes build the infrastructure.
 
 <a href="https://twitter.com/yossiee_jp" target="_blank" rel="noopener">
