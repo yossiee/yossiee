@@ -18,15 +18,15 @@ My main business is back-end design/development, and sometimes build the infrast
 <hr />
 
 <a href="https://github.com/yossiee/yossiee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yossiee&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_title=true&hide=contribs&hide_border=true" alt="yossiee's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yossiee&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_title=true&hide=contribs" alt="yossiee's github stats" />
 </a>
 <a href="https://github.com/yossiee/yossiee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossiee&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossiee&layout=compact&theme=tokyonight&hide_title=true" />
 </a>
 
 <a href="https://github.com/yossiee/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yossiee&repo=blog&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yossiee&repo=blog&theme=tokyonight&show_owner=true" />
 </a>
 <a href="https://github.com/yossiee/97programmer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yossiee&repo=97programmer&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yossiee&repo=97programmer&theme=tokyonight&show_owner=true" />
 </a>
