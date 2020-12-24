@@ -55,18 +55,18 @@ My main business is back-end design/development, and sometimes build the infrast
 
 <p align="center">
 <a href="https://twitter.com/yossiee_jp" target="_blank" rel="noopener">
-  <img alt="yossiee | Twitter" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/twitter.svg" />
+  <img alt="yossiee | Twitter" width="24px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/twitter.svg" />
 </a>
 
 <a href="https://facebook.com/egashira.yoshimitsu" target="_blank" rel="noopener">
-  <img alt="yoshimitsu egashira | Facebook" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/facebook.svg" />
+  <img alt="yoshimitsu egashira | Facebook" width="24px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/facebook.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/yossiee" target="_blank" rel="noopener">
-  <img alt="yoshimitsu egashira | LinkdIn" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/linkedin.svg" />
+  <img alt="yoshimitsu egashira | LinkdIn" width="24px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://wantedly.com/id/yossiee" target="_blank" rel="noopener">
-  <img alt="yoshimitsu egashira | Wantedly" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/wantedly.svg" />
+  <img alt="yoshimitsu egashira | Wantedly" width="24px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/wantedly.svg" />
 </a>
 </p>
