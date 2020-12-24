@@ -20,7 +20,7 @@ My main business is back-end design/development, and sometimes build the infrast
 
 ### Tech Stack
 
-![](https://img.shields.io/badge/-aws-05122A?style=flat-square&logo=amazon&locoColor=FF9900)
+![](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=amazon&locoColor=FF9900)
 ![](https://img.shields.io/badge/-CirclCI-05122A?style=flat-square&logo=circleci&logoColor=343434)
 ![](https://img.shields.io/badge/-Composer-05122A?style=flat-square&logo=composer&logoColor=885630)
 ![](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3&logoColor=1572B6)
@@ -30,6 +30,7 @@ My main business is back-end design/development, and sometimes build the infrast
 ![](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github&logoColor=181717)
 ![](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat-square&logo=Github-Actions&logoColor=2088FF)
 ![](https://img.shields.io/badge/-Go-05122A?style=flat-square&logo=go&logoColor=00ADD8)
+![](https://img.shields.io/badge/-Google%20Analytics-05122A?style=flat-square&logo=google-analytics&logoColor=EC37400)
 ![](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku&logoColor=430098)
 ![](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=E34F26)
 ![](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -39,6 +40,8 @@ My main business is back-end design/development, and sometimes build the infrast
 ![](https://img.shields.io/badge/-NGINX-05122A?style=flat-square&logo=nginx&logoColor=269539)
 ![](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat-square&logo=nuxt.js&logoColor=00C58E)
 ![](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=777BB4)
+![](https://img.shields.io/badge/-Ruby-05122A?style=flat-square&logo=ruby&logoColor=CC342D)
+![](https://img.shields.io/badge/-Ruby%20on%20Rails-05122A?style=flat-square&logo=ruby-on-rails&logoColor=CC0000)
 ![](https://img.shields.io/badge/-Redis-05122A?style=flat-square&logo=redis&logoColor=DC382D)
 ![](https://img.shields.io/badge/-Sass-05122A?style=flat-square&logo=sass&logoColor=CC6699)
 ![](https://img.shields.io/badge/-Slack-05122A?style=flat-square&logo=slack&logoColor=4A154B)
@@ -50,14 +53,20 @@ My main business is back-end design/development, and sometimes build the infrast
 
 ### Contact with me
 
+<p align="center">
 <a href="https://twitter.com/yossiee_jp" target="_blank" rel="noopener">
-  <img align="left" alt="yossiee | Twitter" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/twitter.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/yossiee" target="_blank" rel="noopener">
-  <img align="left" alt="yoshimitsu egashira | LinkdIn" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/linkedin.svg" />
+  <img alt="yossiee | Twitter" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/twitter.svg" />
 </a>
 
 <a href="https://facebook.com/egashira.yoshimitsu" target="_blank" rel="noopener">
-  <img align="left" alt="yoshimitsu egashira | Facebook" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/facebook.svg" />
+  <img alt="yoshimitsu egashira | Facebook" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/facebook.svg" />
 </a>
+
+<a href="https://www.linkedin.com/in/yossiee" target="_blank" rel="noopener">
+  <img alt="yoshimitsu egashira | LinkdIn" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://wantedly.com/id/yossiee" target="_blank" rel="noopener">
+  <img alt="yoshimitsu egashira | Wantedly" width="21px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/wantedly.svg" />
+</a>
+</p>
