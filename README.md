@@ -11,14 +11,16 @@ My main business is back-end design/development, and sometimes build the infrast
 
 ### GitHub Analytics
 
-<p align="center">
+<div align="center">
 <a href="https://github.com/yossiee/yossiee">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yossiee&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&hide=contribs&hide_border=true" alt="yossiee's github stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossiee&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
 </a>
-</p>
+</div>
 
 ### Tech Stack
+
+<div align="center">
 
 ![](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=amazon&locoColor=FF9900)
 ![](https://img.shields.io/badge/-CirclCI-05122A?style=flat-square&logo=circleci&logoColor=343434)
@@ -51,9 +53,11 @@ My main business is back-end design/development, and sometimes build the infrast
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![](https://img.shields.io/badge/-Vue.js-05122A?style=flat-square&logo=vue.js&logoColor=4FC08D)
 
+</div>
+
 ### Contact with me
 
-<p align="center">
+<div align="center">
 <a href="https://twitter.com/yossiee_jp" target="_blank" rel="noopener">
   <img alt="yossiee | Twitter" width="24px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/twitter.svg" />
 </a>
@@ -69,4 +73,4 @@ My main business is back-end design/development, and sometimes build the infrast
 <a href="https://wantedly.com/id/yossiee" target="_blank" rel="noopener">
   <img alt="yoshimitsu egashira | Wantedly" width="24px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/wantedly.svg" />
 </a>
-</p>
+</div>
