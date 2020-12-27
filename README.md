@@ -58,15 +58,15 @@ My main business is back-end design/development, and sometimes build the infrast
 ### Contact with me
 
 <div align="center">
-<a style="margin: 0 16px 0 0" href="https://twitter.com/yossiee_jp" target="_blank" rel="noopener">
+<a href="https://twitter.com/yossiee_jp" target="_blank" rel="noopener">
   <img alt="yossiee | Twitter" width="24px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/twitter.svg" />
 </a>
 
-<a style="margin: 0 16px 0 0" href="https://facebook.com/egashira.yoshimitsu" target="_blank" rel="noopener">
+<a href="https://facebook.com/egashira.yoshimitsu" target="_blank" rel="noopener">
   <img alt="yoshimitsu egashira | Facebook" width="24px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/facebook.svg" />
 </a>
 
-<a style="margin: 0 16px 0 0" href="https://www.linkedin.com/in/yossiee" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/yossiee" target="_blank" rel="noopener">
   <img alt="yoshimitsu egashira | LinkdIn" width="24px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/linkedin.svg" />
 </a>
 
