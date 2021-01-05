@@ -1,4 +1,4 @@
-## Hi there! I'm [yossiee](http://yossiee.com/about) :stuck_out_tongue_winking_eye:
+## Hi there! I'm <a href="http://yossiee.com/about" target="_blank" rel="noopener noreferrer">yossiee</a> :stuck_out_tongue_winking_eye:
 
 ### About me
 
