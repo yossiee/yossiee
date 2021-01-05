@@ -12,10 +12,10 @@ My main business is back-end design/development, and sometimes build the infrast
 ### GitHub Analytics
 
 <div align="center">
-<a href="https://github.com/yossiee/yossiee">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yossiee&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&hide=contribs&hide_border=true" alt="yossiee's github stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossiee&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
-</a>
+
+![](https://github-readme-stats.vercel.app/api?username=yossiee&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&hide=contribs&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yossiee&layout=compact&theme=algolia&hide_border=true&langs_count=8)
+
 </div>
 
 ### Tech Stack
