@@ -1,9 +1,9 @@
-## Hi there! I'm <a href="http://yossiee.com/about" target="_blank" rel="noopener noreferrer">yossiee</a> :stuck_out_tongue_winking_eye:
+## Hi there! I'm <a href="http://yossiee.com/about" target="_blank" rel="noopener noreferrer">ysmtegsr</a> :stuck_out_tongue_winking_eye:
 
 ### About me
 
-<a href="https://github.com/yossiee">
-  <img align="right" src="https://komarev.com/ghpvc/?username=yossiee&style=flat-square&label=visitors&color=05122A" />
+<a href="https://github.com/ysmtegsr">
+  <img align="right" src="https://komarev.com/ghpvc/?username=ysmtegsr&style=flat-square&label=visitors&color=05122A" />
 </a>
 
 Currently, I am developing web services as a software engineer based in Fukuoka, Japan.
@@ -13,8 +13,8 @@ My main business is back-end design/development, and sometimes build the infrast
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=yossiee&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&hide=contribs&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yossiee&layout=compact&theme=algolia&hide_border=true&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=ysmtegsr&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&hide=contribs&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ysmtegsr&layout=compact&theme=algolia&hide_border=true&langs_count=8)
 
 </div>
 
@@ -59,18 +59,18 @@ My main business is back-end design/development, and sometimes build the infrast
 
 <div align="center">
 <a href="https://twitter.com/ysmtegsr" target="_blank" rel="noopener">
-  <img alt="yossiee | Twitter" width="24px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/twitter.svg" />
+  <img alt="ysmtegsr | Twitter" width="24px" src="https://raw.githubusercontent.com/ysmtegsr/ysmtegsr/master/assets/twitter.svg" />
 </a>
 
 <a href="https://facebook.com/egashira.yoshimitsu" target="_blank" rel="noopener">
-  <img alt="yoshimitsu egashira | Facebook" width="24px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/facebook.svg" />
+  <img alt="yoshimitsu egashira | Facebook" width="24px" src="https://raw.githubusercontent.com/ysmtegsr/ysmtegsr/master/assets/facebook.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/ysmtegsr" target="_blank" rel="noopener">
-  <img alt="yoshimitsu egashira | LinkdIn" width="24px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/linkedin.svg" />
+  <img alt="yoshimitsu egashira | LinkdIn" width="24px" src="https://raw.githubusercontent.com/ysmtegsr/ysmtegsr/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://wantedly.com/id/ysmtegsr" target="_blank" rel="noopener">
-  <img alt="yoshimitsu egashira | Wantedly" width="24px" src="https://raw.githubusercontent.com/yossiee/yossiee/master/assets/wantedly.svg" />
+  <img alt="yoshimitsu egashira | Wantedly" width="24px" src="https://raw.githubusercontent.com/ysmtegsr/ysmtegsr/master/assets/wantedly.svg" />
 </a>
 </div>
