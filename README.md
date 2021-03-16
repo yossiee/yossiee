@@ -1,7 +1,8 @@
 ## Hi there! I'm <a href="http://yossiee.com/about" target="_blank" rel="noopener noreferrer">ysmtegsr</a> :stuck_out_tongue_winking_eye:
 
-### About me
+![](https://komarev.com/ghpvc/?username=ysmtegsr&style=flat-square&label=visitors&color=05122A)
 
+<!-- 
 <a href="https://github.com/ysmtegsr">
   <img align="right" src="https://komarev.com/ghpvc/?username=ysmtegsr&style=flat-square&label=visitors&color=05122A" />
 </a>
@@ -74,3 +75,4 @@ My main business is back-end design/development, and sometimes build the infrast
   <img alt="yoshimitsu egashira | Wantedly" width="24px" src="https://raw.githubusercontent.com/ysmtegsr/ysmtegsr/master/assets/wantedly.svg" />
 </a>
 </div>
+-->
