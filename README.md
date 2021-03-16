@@ -1,4 +1,4 @@
-## Hi there! I'm <a href="http://yossiee.com/about" target="_blank" rel="noopener noreferrer">ysmtegsr</a> :stuck_out_tongue_winking_eye:
+## Hi there! I'm <a href="http://ysmtegsr.com/about?to=github" target="_blank" rel="noopener noreferrer">ysmtegsr</a> :stuck_out_tongue_winking_eye:
 
 ![](https://komarev.com/ghpvc/?username=ysmtegsr&style=flat-square&label=visitors&color=05122A)
 
