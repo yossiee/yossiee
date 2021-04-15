@@ -26,3 +26,11 @@ jobs:
 
       - name: Echo
         run: echo ${{ steps.day-of-week.outputs.value }}
+
+      - name: Test1
+        run: echo ${date}
+        if: ${{ steps.day-of-week.outputs.value == '4' }}
+
+      - name: Test2
+        run: echo ${date}
+        if: ${{ steps.day-of-week.outputs.value == '5' }}
