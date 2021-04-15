@@ -1,0 +1,56 @@
+name: progress
+
+on:
+  push:
+    branches: master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup node
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version}}
+
+      - name: Get yarn cache directory path
+        id: cache-dir
+        run: echo "::set-output name=dir::$(yarn cache dir)"
+
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ${{ steps.cache-dir.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: ${{ runner.os }}-yarn-
+
+      - name: Install dependencies
+        run: yarn --frozen-lockfile
+
+      - name: Build
+        run: yarn dev
+
+      - name: Update
+        run: node ./dist/index.js > README.md
+
+      - name:  Commit and Push
+        run: |
+          git config user.name 'GitHub Actions'
+          git config user.email '38056766+ysmtegsr@users.noreply.github.com'
+          git commit -am '[bot] update README automatically'
+          git push
+
+      - name: Set variable
+        id: day-of-week
+        run: echo "::set-output name=value::$(date +"%w")"
+
+      - name: Test
+        run: date
+        if: ${{ steps.day-of-week.outputs.value == '4' }}

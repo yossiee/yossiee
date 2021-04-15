@@ -1,0 +1,18 @@
+{
+  "name": "ysmtegsr",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "repository": "git@github.com:ysmtegsr/ysmtegsr.git",
+  "author": "ysmtegsr <38056766+ysmtegsr@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "npx ts-node ./src/index.ts",
+    "watch": "npx tsc -w",
+    "dev": "npx tsc --target es6 ./src/index.ts --outDir ./dist"
+  },
+  "dependencies": {
+    "typescript": "^4.2.4",
+    "ts-node": "^9.1.1"
+  }
+}
