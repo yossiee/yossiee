@@ -3,10 +3,14 @@ name: progress
 on:
   schedule:
     - cron: "0 3 * * *"
+  push:
+    branches:
+      - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     strategy:
       matrix:
         node-version: [14.x]
@@ -35,10 +39,7 @@ jobs:
         run: yarn --frozen-lockfile
 
       - name: Build
-        run: yarn dev
-
-      - name: Update
-        run: node ./dist/index.js > README.md
+        run: npx ts-node ./src/cmd.ts > README.md
 
       - name:  Commit and Push
         run: |
@@ -48,9 +49,17 @@ jobs:
           git push
 
       - name: Set variable
-        id: day-of-week
-        run: echo "::set-output name=value::$(date +"%w")"
+        id: config
+        run: |
+          echo "::set-output name=day-of-week::$(date +"%w")"
+          echo "::set-output name=message::$(npx ts-node ./src/cmd.js --dry-run)"
 
-      - name: Test
-        run: date
-        if: ${{ steps.day-of-week.outputs.value == '4' }}
+      - name: Post to slack
+        if: ${{ steps.config.outputs.day-of-week == '4' }}
+        uses: rtCamp/action-slack-notify@v2.0.2
+        env:
+          SLACK_COLOR: '#00FF01'
+          SLACK_ICON: https://raw.githubusercontent.com/ysmtegsr/ysmtegsr/master/assets/icon.png
+          SLACK_MESSAGE: ${{ steps.config.outputs.message }}
+          SLACK_USERNAME: 'Progress Bar 2021'
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
