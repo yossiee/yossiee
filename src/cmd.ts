@@ -21,7 +21,8 @@ const argv = yargs
   .help()
   .argv
 const percent = getPercent()
-const message = `⏳ ${new Date().getFullYear()} is ${percent}% complete.\n${getBar(percent)}`
+const message = `⏳ ${new Date().getFullYear()} is ${percent}% complete.
+${getBar(percent)}`
 const readme = `## Hi there! I'm [ysmtegsr](https://ysmtegsr.com/about?to=github) :stuck_out_tongue_winking_eye:
 
 ![](https://komarev.com/ghpvc/?username=ysmtegsr&style=flat-square&label=visitors&color=05122A)

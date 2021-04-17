@@ -52,7 +52,9 @@ jobs:
         id: config
         run: |
           echo "::set-output name=day-of-week::$(date +"%w")"
-          echo "::set-output name=message::$(npx ts-node ./src/cmd.ts --dry-run)"
+          message=$(npx ts-node ./src/cmd.ts --dry-run)
+          message="${message//$'\n'/\\n}"
+          echo "::set-output name=message::$message"
 
       - name: Post to slack
         if: ${{ steps.config.outputs.day-of-week == '6' }}
