@@ -9,5 +9,5 @@
 
 ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░
 
-inspired by [@ProgressBar202_](https://twitter.com/ProgressBar202_)
+*inspired by [@ProgressBar202_](https://twitter.com/ProgressBar202_)*
 hoge

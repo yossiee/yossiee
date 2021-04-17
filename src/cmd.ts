@@ -33,6 +33,6 @@ const readme = `## Hi there! I'm [ysmtegsr](https://ysmtegsr.com/about?to=github
 
 ${message}
 
-inspired by [@ProgressBar202_](https://twitter.com/ProgressBar202_)`
+*inspired by [@ProgressBar202_](https://twitter.com/ProgressBar202_)*`
 
 console.log(argv.dryRun ? message : readme)
