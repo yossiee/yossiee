@@ -55,7 +55,7 @@ jobs:
           echo "::set-output name=message::$(npx ts-node ./src/cmd.ts --dry-run)"
 
       - name: Post to slack
-        if: ${{ steps.config.outputs.day-of-week == '5' }}
+        if: ${{ steps.config.outputs.day-of-week == '6' }}
         uses: rtCamp/action-slack-notify@v2.0.2
         env:
           SLACK_COLOR: '#00FF01'
