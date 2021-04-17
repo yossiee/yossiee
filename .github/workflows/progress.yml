@@ -3,9 +3,6 @@ name: progress
 on:
   schedule:
     - cron: "0 3 * * *"
-  push:
-    branches:
-      - master
 
 jobs:
   build:
@@ -48,7 +45,7 @@ jobs:
           git commit -am '[bot] update README automatically'
           git push
 
-      - name: Set variable
+      - name: Set variables
         id: config
         run: |
           echo "::set-output name=day-of-week::$(date +"%w")"
@@ -57,7 +54,7 @@ jobs:
           echo "::set-output name=message::$message"
 
       - name: Post to slack
-        if: ${{ steps.config.outputs.day-of-week == '6' }}
+        if: ${{ steps.config.outputs.day-of-week == '5' }} # only every friday
         run: |
             jq -n '{
               attachments: [{
