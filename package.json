@@ -7,9 +7,9 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "npx ts-node ./src/cmd.ts",
+    "build": "npx ts-node ./src/index.ts",
     "watch": "npx tsc -w",
-    "dev": "npx tsc --target es6 ./src/cmd.ts --outDir ./dist"
+    "dev": "npx tsc --target es6 ./src/index.ts --outDir ./dist"
   },
   "dependencies": {
     "@types/yargs": "^16.0.1",
