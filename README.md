@@ -5,7 +5,7 @@
 
 ---
 
-⏳ 2021 is 52.4% complete.
+⏳ 2021 is 52.6% complete.
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░
 
 *inspired by [@ProgressBar202_](https://twitter.com/ProgressBar202_)*
