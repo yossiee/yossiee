@@ -44,21 +44,3 @@ jobs:
           git config user.email '38056766+ysmtegsr@users.noreply.github.com'
           git commit -am '[bot] update README automatically'
           git push
-
-      - name: Set variables
-        id: config
-        run: |
-          echo "::set-output name=day-of-week::$(date +"%w")"
-          message=$(npx ts-node ./src/cmd.ts --dry-run)
-          message="${message//$'\n'/\\n}"
-          echo "::set-output name=message::$message"
-
-      - name: Post to slack
-        if: ${{ steps.config.outputs.day-of-week == '5' }} # only every friday
-        run: |
-            jq -n '{
-              attachments: [{
-                color: "#00FF01",
-                text: "${{ steps.config.outputs.message }}\n\n_inspired by <https://twitter.com/ProgressBar202_|@ProgressBar202_>_"
-              }]
-            }' | curl -H 'Content-Type: application/json' -d @- ${{ secrets.SLACK_WEBHOOK }}
